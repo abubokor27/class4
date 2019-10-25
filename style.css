@@ -1,0 +1,21 @@
+ 
+.container{
+	 width: 900px;
+	 margin: 0 auto;
+	 text-align:center;
+ }
+ 
+ .Underd_list{
+	 margin:0 auto;
+	 float:left;
+	 width:400px;
+ }
+ .Oderd_list{
+	 width:440px;
+	 float:left;
+ }
+ ul li {
+	padding: 2px;
+}
+ 
+ 
